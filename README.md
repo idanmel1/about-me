@@ -8,8 +8,8 @@
 
 
 ## Contact Me📞
-discord: tomatohagever4
-gmail: idanmelamed14@gmail.com
+- discord: tomatohagever4
+- gmail: idanmelamed14@gmail.com
 
 
 ## Tech Stack:
